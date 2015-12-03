@@ -44,6 +44,7 @@ h3 {
   letter-spacing: .3em;
   margin-bottom: 18px;
   line-height: 1em;
+  white-space: pre;
 }
 
 h4 {
