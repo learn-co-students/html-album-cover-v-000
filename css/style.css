@@ -33,7 +33,7 @@ h1 {
 }
 
 h2 {
-  font-size: 5.1em;
+  font-size: 4.2em; /* modify this to 4.2em from 5.1em */
   line-height: 1em;
   letter-spacing: .03em;
   margin-bottom: 2px;
@@ -95,7 +95,7 @@ img {
   background: url(../images/cover.jpg);
   background-size: 100%;
   text-align: center;
-} 
+}
 
 #back {
   background: rgba(247,211,27,1);
