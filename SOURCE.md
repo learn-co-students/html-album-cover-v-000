@@ -1,10 +1,25 @@
-<!-- FRONT -->
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>Pharrell Williams - Happy - From Despicable Me 2</title>
+    <link rel="stylesheet" href="css/style.css">
+  </head>
+  <body>
+    <div class="wrapper">
+      <div id="front" class="album">
+        <div id="title-box">
 
 PHARRELL WILLIAMS
 
 HAPPY
 
 | FROM DESPICABLE ME 2 |
+
+   </div>
+      </div>
+
+      <div id="back" class="album">
 
 <!-- BACK -->
 
@@ -21,5 +36,11 @@ PHARRELLWILLIAMS.COM
 [columbia-logo.png]
 
 COLUMBIARECORDS.COM
+ <br>
 
 [sony-logo.png]
+
+  </div>
+    </div>
+  </body>
+</html>
