@@ -65,12 +65,14 @@ span {
   display: inline-block;
   font-size: 1em;
   line-height: 1em;
-  letter-spacing: .35em;
+  letter-spacing: .25em;
   vertical-align: top;
   padding-top: 10px;
 }
 
 img {
+  /*height: 30px;
+  width: 30px;*/
   display: inline-block;
   margin: 0 40px;
 }
@@ -104,9 +106,9 @@ img {
 }
 
 #title-box {
-  width: 252px;
+  width: 292px;
   height: 165px;
   background: rgba(247,211,27,1);
-  margin-left: 163px;
+  margin-left: 143px;
   padding-top: 25px;
 }
