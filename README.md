@@ -1,17 +1,55 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>HTML Album Cover</title>
+    <link rel="stylesheet" href="css/style.css">
+  </head>
+  <body>
+    <div class="wrapper">
+      <div id="front" class="album">
+        <div id="title-box">
 
+          <!-- Level 4 'PHARRELL WILLIAMS' Header -->
+            <h4>PHARRELL WILLIAMS</h4>
 
-# HTML Album Cover
+          <!-- Level 2 'HAPPY' Header -->
+            <h2>HAPPY</h2>
 
-This challenge asks that you recreate the album cover shown in the <a href="https://s3.amazonaws.com/learn-verified/MOCKUP.jpg" target="_blank">MOCKUP.jpg</a> image by writing the appropriate HTML neccesary into the index.html page. Use SOURCE.md to copy and paste in all filler text needed.
+          <!-- Level 4 '| FROM DESPICABLE ME...' Header -->
+            <h4>| FROM DESPICABLE ME...</h4>
 
-## Tasks
+        </div>
+      </div>
 
-1. Fork this repository.
-2. Clone your fork locally.
-3. `cd` in the local repo you just cloned.
-4. Check out the <a href="https://s3.amazonaws.com/learn-verified/MOCKUP.jpg" target="_blank">MOCKUP.jpg</a> image and take a look at it.
-5. Use the comments in the index.html file to create the elements neccesary to recreate the album cover shown in <a href="https://s3.amazonaws.com/learn-verified/MOCKUP.jpg" target="_blank">MOCKUP.jpg</a>. Also use SOURCE.md to copy and paste all neccesary filler text.
-6. Open up index.html in the browser as well for a side by side comparison with <a href="https://s3.amazonaws.com/learn-verified/MOCKUP.jpg" target="_blank">MOCKUP.jpg</a> as you work.
-7. (HINT: If you'd like to take a look at your handiwork, you can preview this in your browser by right-clicking the file in the file tree, and selecting "Open in Browser" .)
+      <div id="back" class="album">
 
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/html-album-cover' title='HTML Album Cover'>HTML Album Cover</a> on Learn.co and start learning to code for free.</p>
+        <!-- Level 3 '| FROM DESPICABLE ME...' Header -->
+          <h3>| FROM DESPICABLE ME...</h3>
+
+        <!-- Level 1 'HAPPY' Header -->
+          <h1>HAPPY</h1>
+
+        <!-- Level 3 'WRITTEN BY...' Header -->
+          <h3>WRITTEN BY...</h3>
+
+        <!-- pararaph text 'PUBLISHED BY...' -->
+          <p>
+            PUBLISHED BY...
+          </p>
+
+        <!-- span text 'PHARRELLWILLIAMS.COM' -->
+
+        <!-- display the images hosted on [https://s3.amazonaws.com/learn-verified/columbia-logo.png] -->
+          <a img href="https://s3.amazonaws.com/learn-verified/columbia-logo.png"></a>
+
+        <!-- span text 'COLUMBIARECORDS.COM' -->
+
+        <br>
+
+        <!-- display the images hosted on [https://s3.amazonaws.com/learn-verified/sony-logo.png] -->
+
+      </div>
+    </div>
+  </body>
+</html>
