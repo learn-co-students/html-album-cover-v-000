@@ -76,7 +76,8 @@ img {
 }
 
 .wrapper {
-  width: 800px;
+  width: 900px;  /* adjusted since webpage was narrower than in picture
+                and some text was not fitting properly as a result */
   margin: 0 auto;
   /*background: url("https://s3.amazonaws.com/learn-verified/MOCKUP.jpg");*/
 }
@@ -95,7 +96,7 @@ img {
   background: url("https://s3.amazonaws.com/learn-verified/cover.jpg");
   background-size: 100%;
   text-align: center;
-} 
+}
 
 #back {
   background: rgba(247,211,27,1);
@@ -104,7 +105,8 @@ img {
 }
 
 #title-box {
-  width: 252px;
+  width: 300px;  /* adjusted since webpage was narrower than in picture
+                and some text was not fitting properly as a result */
   height: 165px;
   background: rgba(247,211,27,1);
   margin-left: 163px;
