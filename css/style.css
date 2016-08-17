@@ -36,7 +36,7 @@ h2 {
   font-size: 5.1em;
   line-height: 1em;
   letter-spacing: .03em;
-  margin-bottom: 2px;
+  margin-bottom: 7px;
 }
 
 h3 {
@@ -63,7 +63,7 @@ p {
 
 span {
   display: inline-block;
-  font-size: 1em;
+  font-size: .9em;
   line-height: 1em;
   letter-spacing: .35em;
   vertical-align: top;
@@ -75,10 +75,21 @@ img {
   margin: 0 40px;
 }
 
+.happy-front {
+  font-size: 4em;
+  letter-spacing: 0em;
+  margin-bottom: 10px;
+  margin-top: 5px;
+}
+
+.from-front {
+  letter-spacing: .3em;
+}
+
 .wrapper {
   width: 800px;
   margin: 0 auto;
-  /*background: url("https://s3.amazonaws.com/learn-verified/MOCKUP.jpg");*/
+  /background: url("https://s3.amazonaws.com/learn-verified/MOCKUP.jpg");*/
 }
 
 .album {
@@ -95,7 +106,7 @@ img {
   background: url("https://s3.amazonaws.com/learn-verified/cover.jpg");
   background-size: 100%;
   text-align: center;
-} 
+}
 
 #back {
   background: rgba(247,211,27,1);
