@@ -1,6 +1,6 @@
 
 
-# HTML Album Cover
+# HTML Album
 
 This challenge asks that you recreate the album cover shown in the <a href="https://s3.amazonaws.com/learn-verified/MOCKUP.jpg" target="_blank">MOCKUP.jpg</a> image by writing the appropriate HTML neccesary into the index.html page. Use SOURCE.md to copy and paste in all filler text needed.
 
