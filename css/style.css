@@ -26,16 +26,16 @@ body {
 }
 
 h1 {
-  font-size: 12.25em;
+  font-size: 11em;
   line-height: 1em;
   letter-spacing: .03em;
   margin-bottom: 2px;
 }
 
 h2 {
-  font-size: 5.1em;
+  font-size: 4em;
   line-height: 1em;
-  letter-spacing: .03em;
+  letter-spacing: .00em;
   margin-bottom: 2px;
 }
 
@@ -55,9 +55,9 @@ h4 {
 }
 
 p {
-  font-size: .9em;
-  line-height: 1.8em;
-  letter-spacing: .103em;
+  font-size: .7em;
+  line-height: 1.6em;
+  letter-spacing: .072em;
   margin-bottom: 15px;
 }
 
@@ -95,7 +95,7 @@ img {
   background: url("https://s3.amazonaws.com/learn-verified/cover.jpg");
   background-size: 100%;
   text-align: center;
-} 
+}
 
 #back {
   background: rgba(247,211,27,1);
