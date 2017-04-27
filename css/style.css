@@ -1,7 +1,11 @@
 @font-face {
-  font-family: 'Avenir Next Condensed';
-  src: url('https://s3.amazonaws.com/learn-verified/Avenir+Next+Condensed.ttc');
+  font-family: 'Fira Sans Extra Condensed';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://fonts.gstatic.com/s/firasansextracondensed/v1/wg_5XrW_o1_ZfuCbAkBfGVRjX9Jlut_-eN40c1mQErxbV0WvE1cEyAoIq5yYZlSc.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215;
 }
+
 
 * {
   margin: 0;
@@ -21,7 +25,7 @@ body {
   background: -ms-linear-gradient(top,  rgba(79,79,79,1) 0%,rgba(19,19,19,1) 57%,rgba(19,19,19,1) 100%); /* IE10+ */
   background: linear-gradient(to bottom,  rgba(79,79,79,1) 0%,rgba(19,19,19,1) 57%,rgba(19,19,19,1) 100%); /* W3C */
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#4f4f4f', endColorstr='#131313',GradientType=0 ); /* IE6-8 */
-  font-family: 'Avenir Next Condensed', Helvetica, sans-serif;
+  font-family: 'Fira Sans Extra Condensed', sans-serif;
   font-size: 100%;
 }
 
