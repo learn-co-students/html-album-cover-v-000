@@ -21,52 +21,58 @@ body {
   background: -ms-linear-gradient(top,  rgba(79,79,79,1) 0%,rgba(19,19,19,1) 57%,rgba(19,19,19,1) 100%); /* IE10+ */
   background: linear-gradient(to bottom,  rgba(79,79,79,1) 0%,rgba(19,19,19,1) 57%,rgba(19,19,19,1) 100%); /* W3C */
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#4f4f4f', endColorstr='#131313',GradientType=0 ); /* IE6-8 */
-  font-family: 'Avenir Next Condensed', Helvetica, sans-serif;
+  font-family: 'Avenir Next Pro Condensed Bold', Helvetica, sans-serif;
   font-size: 100%;
 }
 
 h1 {
-  font-size: 12.25em;
+  font-weight: bold;
+  font-size: 11em;
   line-height: 1em;
-  letter-spacing: .03em;
+  letter-spacing: -2px;
   margin-bottom: 2px;
 }
 
 h2 {
-  font-size: 5.1em;
+  font-weight: bold;
+  font-size: 4em;
   line-height: 1em;
-  letter-spacing: .03em;
+  letter-spacing: -3px;
   margin-bottom: 2px;
 }
 
 h3 {
-  font-weight: normal;
-  letter-spacing: .3em;
+  font-weight: bold;
+  font-size: 6pt;
+  letter-spacing: 4px;
   margin-bottom: 18px;
   line-height: 1em;
 }
 
 h4 {
-  font-weight: normal;
-  font-size: .7em;
-  letter-spacing: .4em;
+  font-weight: lighter;
+  font-size: 5pt;
+  letter-spacing: 2px;
   margin-bottom: 9px;
   line-height: 1em;
 }
 
 p {
-  font-size: .9em;
-  line-height: 1.8em;
-  letter-spacing: .103em;
+  font-weight: bold;
+  font-size: 5pt;
+  line-height: 2.25em;
+  letter-spacing: 0px;
   margin-bottom: 15px;
 }
 
 span {
   display: inline-block;
-  font-size: 1em;
+  font-weight: bold;
+  font-size: .5em;
   line-height: 1em;
-  letter-spacing: .35em;
+  letter-spacing: 3px;
   vertical-align: top;
+  align: left;
   padding-top: 10px;
 }
 
@@ -95,7 +101,7 @@ img {
   background: url("https://s3.amazonaws.com/learn-verified/cover.jpg");
   background-size: 100%;
   text-align: center;
-} 
+}
 
 #back {
   background: rgba(247,211,27,1);
@@ -104,9 +110,9 @@ img {
 }
 
 #title-box {
-  width: 252px;
-  height: 165px;
+  width: 242px;
+  height: 142px;
   background: rgba(247,211,27,1);
   margin-left: 163px;
-  padding-top: 25px;
+  padding-top: 15px;
 }
