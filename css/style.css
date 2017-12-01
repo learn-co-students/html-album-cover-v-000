@@ -37,6 +37,8 @@ h2 {
   line-height: 1em;
   letter-spacing: .03em;
   margin-bottom: 2px;
+  letter-spacing: -10px
+
 }
 
 h3 {
@@ -68,6 +70,7 @@ span {
   letter-spacing: .35em;
   vertical-align: top;
   padding-top: 10px;
+  letter-spacing: 1px
 }
 
 img {
@@ -95,7 +98,8 @@ img {
   background: url("https://s3.amazonaws.com/learn-verified/cover.jpg");
   background-size: 100%;
   text-align: center;
-} 
+  letter-spacing: -10px;
+}
 
 #back {
   background: rgba(247,211,27,1);
