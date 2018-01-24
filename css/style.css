@@ -1,14 +1,15 @@
-@font-face {
-  font-family: 'Avenir Next Condensed';
+  font-face {
+  font-family: 'AvenirNextCondensed-Bold';
   src: url('https://s3.amazonaws.com/learn-verified/Avenir+Next+Condensed.ttc');
+  font-weight: normal;
+  font-style: normal;
 }
-
-* {
+ 
+ * {
   margin: 0;
   padding: 0;
   -moz-box-sizing: border-box;
   -webkit-box-sizing: border-box;
-  box-sizing: border-box;
 }
 
 body {
@@ -78,7 +79,7 @@ img {
 .wrapper {
   width: 800px;
   margin: 0 auto;
-  /*background: url("https://s3.amazonaws.com/learn-verified/MOCKUP.jpg");*/
+  /*background: url(../MOCKUP.jpg);*/
 }
 
 .album {
@@ -98,7 +99,7 @@ img {
 } 
 
 #back {
-  background: rgba(247,211,27,1);
+  background: rgb(247,211,27,1);
   text-align: center;
   padding: 130px 35px 35px;
 }
@@ -106,7 +107,7 @@ img {
 #title-box {
   width: 252px;
   height: 165px;
-  background: rgba(247,211,27,1);
+  background: rgb(247,211,27,1);
   margin-left: 163px;
   padding-top: 25px;
 }
